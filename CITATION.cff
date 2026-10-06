@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below, and cite the accompanying paper."
+title: "Reproducibility Package: A Domain-Independent Governance Vocabulary for Reasoning-Capable RPA in Manufacturing and Supply Chain Decision-Making"
+type: software
+authors:
+  - family-names: "[Author surname]"
+    given-names: "[Author given name]"
+    affiliation: "[Institution]"
+repository-code: "[GitHub URL to be filled in after upload]"
+license: MIT
+version: 1.0.0
+date-released: "2026-08-19"
+preferred-citation:
+  type: article
+  title: "A Domain-Independent Governance Vocabulary for Reasoning-Capable Robotic Process Automation in Manufacturing and Supply Chain Decision-Making"
+  authors:
+    - family-names: "[Author surname]"
+      given-names: "[Author given name]"
+  journal: "International Journal of Computer Integrated Manufacturing"
+  year: 2026
+references:
+  - type: standard
+    title: "Failure Modes and Effects Analysis (FMEA and FMECA)"
+    institution:
+      name: "International Electrotechnical Commission"
+    year: 2018
+    notes: "IEC 60812:2018"
+  - type: standard
+    title: "Evaluation Criteria for Reliability-Centered Maintenance (RCM) Processes"
+    institution:
+      name: "SAE International"
+    year: 1999
+    notes: "SAE JA1011"
+  - type: book
+    title: "ITIL Service Operation"
+    authors:
+      - name: "Cabinet Office"
+    publisher:
+      name: "TSO (The Stationery Office)"
+    year: 2011
+    isbn: "9780113313075"
+  - type: article
+    authors:
+      - family-names: "Kraljic"
+        given-names: "Peter"
+    title: "Purchasing Must Become Supply Management"
+    journal: "Harvard Business Review"
+    volume: 61
+    issue: 5
+    start: 109
+    end: 117
+    year: 1983
